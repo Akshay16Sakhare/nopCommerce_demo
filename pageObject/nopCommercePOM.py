@@ -75,7 +75,6 @@ class LoginPage():
     remember_me = (By.ID, "RememberMe")
     hit_login = (By.XPATH, "//button[@class='button-1 login-button']")
     error_message = (By.XPATH, "//li[normalize-space()='No customer account found']")
-    error_message_2 = (By.XPATH, "//div[@class='message-error validation-summary-errors']")
 
     def Click_Login_option(self):
         self.driver.find_element(*self.login_button).click()
@@ -93,11 +92,9 @@ class LoginPage():
         self.driver.find_element(*self.hit_login).click()
 
     def Error_message(self):
-        message = self.driver.find_element(*self.error_message).get_attribute('InnerHTML')
-        return message
-    def Error_message_unsuccessful_login(self):
-        message_2 = self.driver.find_element(*self.error_message_2).get_attribute('InnerHTML')
-        return message_2
+        message = self.driver.find_element(*self.error_message)
+        return message.text
+
 
 
 

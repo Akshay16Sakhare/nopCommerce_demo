@@ -388,3 +388,47 @@
 2023-07-22 13:36:31,785 : INFO : Test_LoginPage : test_params004 : Test 'test_params004' completed
 2023-07-22 13:36:40,394 : INFO : Test_LoginPage : test_params004 : Test 'test_params004' completed
 2023-07-22 13:36:49,366 : INFO : Test_LoginPage : test_params004 : Test 'test_params004' completed
+2023-07-22 14:50:50,277 : INFO : Test_regi : test_register : click REGISTER Option.
+2023-07-22 14:50:50,791 : INFO : Test_LoginPage : test_Correct_login_002 : click Login option
+2023-07-22 14:50:51,494 : INFO : Test_LoginPage : test_correct_URL_001 : checking if URL is correct.
+2023-07-22 14:50:51,511 : INFO : Test_LoginPage : test_correct_URL_001 : URL is correct, Test Passed.
+2023-07-22 14:50:51,773 : INFO : Test_LoginPage : test_correct_URL_001 : Test 'test_correct_URL_001' completed
+2023-07-22 14:50:51,857 : INFO : Test_regi : test_register : click GENGER Option.
+2023-07-22 14:50:52,152 : INFO : Test_regi : test_register : Enter First_Name Option.
+2023-07-22 14:50:52,245 : INFO : Test_regi : test_register : Enter Last_Name Option.
+2023-07-22 14:50:52,327 : INFO : Test_regi : test_register : Select Date Option.
+2023-07-22 14:50:52,450 : INFO : Test_regi : test_register : Select Month Option.
+2023-07-22 14:50:52,536 : INFO : Test_regi : test_register : Select Year Option.
+2023-07-22 14:50:52,581 : INFO : Test_regi : test_register : Enter Email Option.
+2023-07-22 14:50:52,646 : INFO : Test_regi : test_register : Select Company_Name Option.
+2023-07-22 14:50:52,705 : INFO : Test_regi : test_register : Enter Password Option.
+2023-07-22 14:50:52,770 : INFO : Test_regi : test_register : Confirm_Password Option.
+2023-07-22 14:50:52,828 : INFO : Test_regi : test_register : Click Register Button.
+2023-07-22 14:50:53,650 : INFO : Test_regi : test_register : Successfull Registration complete, test_register Passed.
+2023-07-22 14:50:54,503 : INFO : Test_LoginPage : test_Correct_login_002 : Enter Email id.
+2023-07-22 14:50:54,575 : INFO : Test_LoginPage : test_Correct_login_002 : Enter password.
+2023-07-22 14:50:54,632 : INFO : Test_LoginPage : test_Correct_login_002 : Click 'Remember me' box.
+2023-07-22 14:50:54,673 : INFO : Test_LoginPage : test_Correct_login_002 : Click Login Button.
+2023-07-22 14:50:55,474 : INFO : Test_LoginPage : test_Correct_login_002 : Test 'test_Correct_login_002' completed
+2023-07-22 15:06:25,506 : INFO : Test_regi : test_register : click REGISTER Option.
+2023-07-22 15:06:26,423 : INFO : Test_LoginPage : test_correct_URL_001 : checking if URL is correct.
+2023-07-22 15:06:26,440 : INFO : Test_LoginPage : test_correct_URL_001 : URL is correct, Test Passed.
+2023-07-22 15:06:26,973 : INFO : Test_LoginPage : test_correct_URL_001 : Test 'test_correct_URL_001' completed
+2023-07-22 15:06:27,021 : INFO : Test_LoginPage : test_Correct_login_002 : click Login option
+2023-07-22 15:06:27,219 : INFO : Test_regi : test_register : click GENGER Option.
+2023-07-22 15:06:27,349 : INFO : Test_regi : test_register : Enter First_Name Option.
+2023-07-22 15:06:27,433 : INFO : Test_regi : test_register : Enter Last_Name Option.
+2023-07-22 15:06:27,522 : INFO : Test_regi : test_register : Select Date Option.
+2023-07-22 15:06:27,658 : INFO : Test_regi : test_register : Select Month Option.
+2023-07-22 15:06:27,743 : INFO : Test_regi : test_register : Select Year Option.
+2023-07-22 15:06:27,798 : INFO : Test_regi : test_register : Enter Email Option.
+2023-07-22 15:06:27,888 : INFO : Test_regi : test_register : Select Company_Name Option.
+2023-07-22 15:06:27,945 : INFO : Test_regi : test_register : Enter Password Option.
+2023-07-22 15:06:28,005 : INFO : Test_regi : test_register : Confirm_Password Option.
+2023-07-22 15:06:28,054 : INFO : Test_regi : test_register : Click Register Button.
+2023-07-22 15:06:28,497 : INFO : Test_regi : test_register : Successfull Registration complete, test_register Passed.
+2023-07-22 15:06:30,730 : INFO : Test_LoginPage : test_Correct_login_002 : Enter Email id.
+2023-07-22 15:06:30,791 : INFO : Test_LoginPage : test_Correct_login_002 : Enter password.
+2023-07-22 15:06:30,851 : INFO : Test_LoginPage : test_Correct_login_002 : Click 'Remember me' box.
+2023-07-22 15:06:30,894 : INFO : Test_LoginPage : test_Correct_login_002 : Click Login Button.
+2023-07-22 15:06:31,690 : INFO : Test_LoginPage : test_Correct_login_002 : Test 'test_Correct_login_002' completed
